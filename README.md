@@ -5,6 +5,8 @@ Founder of [AI Nexus × Neon AI Studio](https://neonaistudio.in) — AI video, a
 
 **Open to:** Dubai (UAE) · Kuwait · Luxembourg · Japan · other international locations · Remote — open to relocation.
 
+**What I'm looking for:** Junior/Graduate roles: AI/ML, Full-stack, 3D/WebGL, Creative technologist — Dubai · Kuwait · Luxembourg · Japan · Remote
+
 ---
 
 ### About me
@@ -45,8 +47,8 @@ I am an engineering student in AI & Data Science who builds web, 3D, Android and
 | [LiveVideoBrodcast](https://github.com/ppro916/LiveVideoBrodcast) | Flask live-broadcast control panel: multi-camera switching, overlays, ads, scoreboard and a Cloudflare tunnel helper |
 | [B-Mart-Invoice](https://github.com/ppro916/B-Mart-Invoice) | Browser-based invoice and billing app for a local store, backed by Firebase Firestore (admin, invoice list, printable invoices) |
 | [Neon-Ai-Studio-Caller](https://github.com/ppro916/Neon-Ai-Studio-Caller) | Express webhook that turns speech into natural Hindi/Marathi replies using the OpenAI Chat Completions API |
-| [ADB_Project_Python_App](https://github.com/ppro916/ADB_Project_Python_App) | Kotlin Android "Termux Control Center": USB/OTG, system info and network tools, with a bilingual Marathi + English UI |
-| [Meow-Net](https://github.com/ppro916/Meow-Net) | Realtime web chat with Google sign-in and Firestore live message streams |
+| [ADB_Project_Python_App](https://github.com/ppro916/ADB_Project_Python_App) | Early-stage Kotlin Android "Termux Control Center" scaffold: bilingual Marathi + English launcher, with USB/OTG, system-info and network-tool screens in progress |
+| [Meow-Net](https://github.com/ppro916/Meow-Net) | Cat-themed social app on Firebase: Google sign-in, realtime feed with likes and one-to-one chat. Live: [ppro916.github.io/Meow-Net](https://ppro916.github.io/Meow-Net/) |
 
 ---
 
@@ -60,8 +62,24 @@ I am an engineering student in AI & Data Science who builds web, 3D, Android and
 
 ### GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ppro916&show_icons=true&theme=transparent&hide_border=true&count_private=false)](https://github.com/ppro916)
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppro916&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/ppro916)
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ppro916&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppro916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ppro916&theme=tokyonight&hide_border=true" />
+</p>
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppro916/ppro916/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ppro916/ppro916/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ppro916/ppro916/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
